@@ -1,0 +1,77 @@
+@media screen and (min-width:320px){
+	.ca{
+		font-size:2rem;
+		
+	}
+	.me{
+		color:#94162d;
+	}
+	.home{
+	display:flex;
+	background-color:#f5f4d7;
+	
+}
+	
+}
+@media screen and (min-width:768px){
+	
+}
+@media screen and (min-width:1024px){
+.home{
+	display:flex;
+	justify-content:space-between;
+	background-color:#f5f4d7;
+	
+}	
+.ca{
+	font-size:3rem;
+}
+.ca{
+	margin-left:55rem;
+	margin-top:1rem;
+}
+.at{
+	margin-right:3rem;
+}
+.con{
+	display:flex;
+}
+.com{
+	display:flex;
+}
+.at{
+	position:fixed;
+	top:0;
+	right:-50%;
+}
+.at-active{
+	right:0;
+	transition:2s;
+	
+}
+.pop{
+	display:flex;
+}
+.pop iconify-icon {
+	font-size:2.5rem;
+	
+}
+.pop{
+	justify-content:space-between;
+}
+.gon{
+	margin-top:2rem;
+	margin-left:3rem;
+	gap:2rem;
+}
+.con{
+	gap:2rem;
+}
+.com{
+	gap:2rem;
+	
+}
+.pop{
+	align-items:center;
+}
+}
